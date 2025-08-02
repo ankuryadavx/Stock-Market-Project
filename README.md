@@ -1,4 +1,8 @@
 Stock Market Analysis & Forecasting Dashboard
+
+
+<img width="938" height="782" alt="image" src="https://github.com/user-attachments/assets/635f8de1-d7a6-4c6e-8bf5-30a6ea83cdf9" />
+
 An interactive web application built with Streamlit for comprehensive stock market analysis. This tool allows users to perform in-depth technical analysis, forecast future stock prices using an ARIMA model, and evaluate investments using the Capital Asset Pricing Model (CAPM).
 
 
